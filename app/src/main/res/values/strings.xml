@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tasty Street Eats</string>
+    <string name="location_permission_message">
+        To enhance your dining experience, we need your permission to access your device\'s location.
+        By enabling location services:
+        - We can provide personalized restaurant recommendations.
+        - Deliver accurate delivery estimates.
+        - Ensure a smooth and timely food delivery experience.
+        Your location helps us serve you better!
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
